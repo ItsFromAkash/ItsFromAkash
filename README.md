@@ -32,10 +32,8 @@ akash@systems:~$ cat languages.txt | column -t
 LANG       LEVEL           USE
 C          core            memory, data structures, low-level logic
 C++        core            performance-critical systems code
-NASM       core            x86 Assembly, understanding the metal
-Rust       learning        safe systems programming, CLI tools
+Rust       core            safe systems programming, CLI tools
 Go         comfortable     tooling, small services
-C#/.NET    comfortable     desktop application layer
 
 akash@systems:~$ 
 ```
