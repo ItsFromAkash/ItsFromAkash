@@ -41,25 +41,11 @@ akash@systems:~$ cat stack.h
 #include <native_asm.s>       /* x86 Assembly (NASM)  */
 #include <fearless.rs>        /* Rust                 */
 #include <concurrency.go>     /* Go                   */
-#include <desktop.cs>         /* C# / .NET + Avalonia */
 
 #endif // STACK_H
 
 akash@systems:~$ 
 ```
-
-```
-akash@systems:~$ ps -ef | grep learning
-
-akash   1001  1  0  ??:??  ??  studying operating system internals
-akash   1002  1  0  ??:??  ??  writing x86 (NASM) routines
-akash   1003  1  0  ??:??  ??  learning Rust systems programming
-akash   1004  1  0  ??:??  ??  exploring compiler & memory management
-akash   1005  1  0  ??:??  ??  building desktop tools with Avalonia UI
-
-akash@systems:~$ 
-```
-
 ```
 akash@systems:~$ ls -la ~/toolbox
 
