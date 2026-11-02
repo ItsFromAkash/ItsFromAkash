@@ -16,16 +16,10 @@ akash@systems:~$ whoami
 Akash Dhananjaya
 
 akash@systems:~$ cat role.txt
-Systems Software Engineer
-Focus  : Low-level & native development
-Status : Software Engineering Student
-
-akash@systems:~$ uname -a
-akash-dev 6.1.0-systems #1 SMP x86_64 GNU/Linux
-
-akash@systems:~$ 
+Name   : Akash Dhananjaya
+Role   : Systems Software Engineering Student
+Focus  : Low-level & Native Systems
 ```
-
 ```
 akash@systems:~$ cat languages.txt | column -t
 
