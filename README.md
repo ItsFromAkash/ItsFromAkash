@@ -13,12 +13,12 @@
 
 ```
 akash@systems:~$ whoami
-I'm
+akash — a human who talks to machines in their own language
 
 akash@systems:~$ cat role.txt
-Name   : Akash Dhananjaya
-Role   : Systems Software Engineering Student
-Focus  : Low-level & Native Systems
+Name    : Akash Dhananjaya
+Role    : Systems Software Engineering Student
+Focus   : Low-level & Native Systems
 ```
 ```
 akash@systems:~$ cat languages.txt | column -t
